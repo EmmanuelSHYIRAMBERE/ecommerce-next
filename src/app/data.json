@@ -1,0 +1,121 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Classic Chronograph Watch",
+    "description": "Elegant stainless steel watch with chronograph functionality and sapphire crystal glass.",
+    "price": "$129.99",
+    "picture": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-002",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium over-ear headphones with 30-hour battery life and deep bass sound.",
+    "price": "$89.99",
+    "picture": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-003",
+    "name": "Leather Crossbody Bag",
+    "description": "Genuine leather crossbody bag with adjustable strap and multiple compartments.",
+    "price": "$74.99",
+    "picture": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-004",
+    "name": "Running Sneakers",
+    "description": "Lightweight and breathable running shoes with memory foam insoles for all-day comfort.",
+    "price": "$59.99",
+    "picture": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-005",
+    "name": "Instant Film Camera",
+    "description": "Retro-style instant camera that prints photos on the spot — perfect for memories.",
+    "price": "$99.99",
+    "picture": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-006",
+    "name": "Luxury Perfume",
+    "description": "Long-lasting floral fragrance with notes of jasmine, rose, and warm musk.",
+    "price": "$64.99",
+    "picture": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-007",
+    "name": "Urban Backpack",
+    "description": "Water-resistant backpack with USB charging port and padded laptop compartment.",
+    "price": "$49.99",
+    "picture": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-008",
+    "name": "Polarized Sunglasses",
+    "description": "UV400 polarized sunglasses with lightweight titanium frame for outdoor activities.",
+    "price": "$34.99",
+    "picture": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-009",
+    "name": "Minimalist Cotton T-Shirt",
+    "description": "100% organic cotton unisex tee with a relaxed fit, available in multiple colors.",
+    "price": "$24.99",
+    "picture": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-010",
+    "name": "Modern Floor Lamp",
+    "description": "Adjustable arc floor lamp with warm LED lighting and matte black metal finish.",
+    "price": "$119.99",
+    "picture": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-011",
+    "name": "Velvet Accent Sofa",
+    "description": "Two-seater velvet sofa with solid wood legs — a statement piece for any living room.",
+    "price": "$499.99",
+    "picture": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-012",
+    "name": "Ceramic Plant Pot Set",
+    "description": "Set of 3 handcrafted ceramic pots with drainage holes, ideal for succulents and herbs.",
+    "price": "$29.99",
+    "picture": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-013",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Double-walled vacuum insulated bottle that keeps drinks cold 24hrs or hot 12hrs.",
+    "price": "$27.99",
+    "picture": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-014",
+    "name": "Skincare Essentials Kit",
+    "description": "Complete daily skincare routine kit with cleanser, toner, moisturizer and SPF serum.",
+    "price": "$54.99",
+    "picture": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-015",
+    "name": "Wooden Cutting Board",
+    "description": "Extra-large acacia wood cutting board with juice groove and non-slip rubber feet.",
+    "price": "$39.99",
+    "picture": "https://images.unsplash.com/photo-1605522561233-768ad7a8fabf?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-016",
+    "name": "Pour-Over Coffee Set",
+    "description": "Barista-grade pour-over coffee maker with borosilicate glass carafe and reusable filter.",
+    "price": "$36.99",
+    "picture": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "prod-017",
+    "name": "Mechanical Keyboard",
+    "description": "Compact TKL mechanical keyboard with RGB backlighting and tactile brown switches.",
+    "price": "$84.99",
+    "picture": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop"
+  }
+]
