@@ -2,14 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-
-interface ProductTypes {
-  id: string;
-  name: string;
-  description: string;
-  price: string;
-  picture: string;
-}
+import { ProductTypes } from "@/types/product";
 
 const Productcard = ({
   id,
@@ -30,7 +23,7 @@ const Productcard = ({
 
       <h3 className="text-green-500 font-bold">{name}</h3>
       <p>{description}</p>
-      <p className="text-green-500">{price}</p>
+      <p className="text-green-500">RWF {price}</p>
 
       <div className="flex justify-between items-center">
         <button className="shadow shadow-green-500 rounded-md p-1">

@@ -81,12 +81,13 @@ model Authenticator {
 }
 
 model Product {
-  id   String @id @default(auto()) @map("_id") @db.ObjectId
-  name String
+  id          String  @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
   description String?
-  price Int
-  quantity Int
-  
+  price       Int
+  quantity    Int
+  picture     String?
+
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }
