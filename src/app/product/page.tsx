@@ -11,6 +11,15 @@ export default async function ProductLists() {
 
   const receivedData = data.data;
 
+  // if (!receivedData || receivedData.length === 0) {
+  //   return(
+  //     <div className="flex">
+  //       No products found. Please add some products.
+  //       <AddNewProductModal />
+  //     </div>
+  //   )
+  // }
+
   return (
     <div className="bg-gray-100 min-h-screen">
       <h2 className="flex justify-center items-center">Product Listings</h2>
