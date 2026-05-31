@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Header from "@/components/layout/Header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,11 +12,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ecommerce Demo - Public Page",
-  description: "Public page for the ecommerce demo application",
+  title: "Ecommerce Demo - User Registration Page",
+  description:
+    "User authentication and registration page for the ecommerce demo application",
 };
 
-export default function RootLayout({
+export default function UserRootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -29,7 +29,6 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col" suppressHydrationWarning>
-        <Header />
         {children}
       </body>
     </html>
